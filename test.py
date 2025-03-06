@@ -2,8 +2,8 @@ AWS_SECRET_KEY = '4e&6bz+(5&cg^_!05r(&7_#dghg_smrojq(yk)xa^bwg7j)^*j'
 KEY = '0fXmr002SuelwlPgNWs1FIiMSRcRvm9e'
 USER = "Vishal"
 PASSWORD = "PASS@!23"
-MONGODB_CONNECTION = "mongodb+srv://my-user:PASS@!23@clustername.mongodb.net/"
-NETLIFY = "abc12345abc12345abc12345abc12345abc12345abc"
+DB = "db+srv://my-user:PASS@!23@clustername.db.net/"
+PASS = "abc12345abc12345abc12345abc12345abc12345abc"
 def login(user, password):
     if user==USER and password==PASSWORD:
         return True
