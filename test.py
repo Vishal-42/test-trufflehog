@@ -4,7 +4,7 @@ KEY = '0fXmr002SuelwlPgNWs1FIiMSRcRvm9e'
 USER = "Vishal"
 PASSWORD = "PASS@!23"
 
-MONGODB = "mongodb+srv://my-user:PASS@!23@clustername.mongodb.net/"
+MONGODB_CONNECTION = "mongodb+srv://my-user:PASS@!23@clustername.mongodb.net/"
 
 PASS = "abc12345abc12345abc12345abc12345abc12345abc"
 
