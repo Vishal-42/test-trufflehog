@@ -3,4 +3,4 @@ KEY = '0fXmr002SuelwlPgNWs1FIiMSRcRvm9e'
 PASSWORD = "PASS@!23"
 
 MONGODB = "mongodb+srv://my-user:PASS@!23@clustername.mongodb.net/"
-NETLIFY = "abc12345abc12345abc12345abc12345abc12345abc"
+PASS = "abc12345abc12345abc12345abc12345abc12345abc"
