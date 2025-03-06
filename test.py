@@ -3,7 +3,7 @@ KEY = '0fXmr002SuelwlPgNWs1FIiMSRcRvm9e'
 USER = "Vishal"
 PASSWORD = "PASS@!23"
 MONGODB_CONNECTION = "mongodb+srv://my-user:PASS@!23@clustername.mongodb.net/"
-PASS = "abc12345abc12345abc12345abc12345abc12345abc"
+NETLIFY = "abc12345abc12345abc12345abc12345abc12345abc"
 def login(user, password):
     if user==USER and password==PASSWORD:
         return True
